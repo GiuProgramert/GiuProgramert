@@ -4,7 +4,7 @@ I have 18 years old an a Informatics Engineering student, in the first year but 
 a powerfull eager to learn, In the future this page will have a lot of incredible projects
 
 ## Actual Work
-I am working with the [Jecka Moños e-comerce web site](https://www.instagram.com/jeckapy/).
+I am working with the [Jecka Moños e-comerce web site](https://www.instagram.com/jeckapy/)
 maded in Django but for the momment i can't put this repository in public for security reasons 
 
 ## Skills
