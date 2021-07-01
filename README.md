@@ -1,4 +1,4 @@
-### Hi I am Giuliano Dario Martin Diaz Perez
+<h1>Hi I am Giuliano Dario Martin Diaz Perez</h1>
 <p>
   I am a Junior Dev who want to learn all about web development and desktop technologies
   I have 18 years old an a Informatics Engineering student, in the first year but with 
