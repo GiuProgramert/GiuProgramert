@@ -1,4 +1,4 @@
-#Hi I am Giuliano Dario Martin Diaz Perez
+### Hi I am Giuliano Dario Martin Diaz Perez
 <p>
   I am a Junior Dev who want to learn all about web development and desktop technologies
   I have 18 years old an a Informatics Engineering student, in the first year but with 
@@ -7,24 +7,24 @@
 
 ## Skills
 ### Web
-> Javascript
-> Html
-> CSS
+-> Javascript
+-> Html
+-> CSS
 
 ### Frameworks
-> Django
-> Bootstrap
+-> Django
+-> Bootstrap
 
 ### Programming lenguajes
-> Java
-> Python
-> PHP
-> Javascript
+-> Java
+-> Python
+-> PHP
+-> Javascript
 
 ### Databases
-> Mysql
-> Postgresql
-> sqlite3
+-> Mysql
+-> Postgresql
+-> sqlite3
 
 ### Some others skills
-> Git
+-> Git
