@@ -7,7 +7,7 @@
 
 ## Actual Work
 <p>
-  I am working with the [Jecka Moños E-comerce Web site](https://www.instagram.com/jeckapy/)
+  I am working with the [Jecka Moños](https://www.instagram.com/jeckapy/)
   maded in Django but for the momment i can't put this repository in public for security reasons 
 </p>
 
