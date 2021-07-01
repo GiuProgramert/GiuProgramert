@@ -1,7 +1,9 @@
 # Hi I am Giuliano Dario Martin Diaz Perez
-I am a Paraguayan Junior Dev who want to learn all about web development and desktop technologies
-I have 18 years old an a Informatics Engineering student, in the first year but with 
-a powerfull eager to learn, In the future this page will have a lot of incredible projects
+<p styles="background-color: orange;">
+	I am a Paraguayan Junior Dev who want to learn all about web development and desktop technologies
+  I have 18 years old an a Informatics Engineering student, in the first year but with 
+  a powerfull eager to learn, In the future this page will have a lot of incredible projects
+</p>
 
 ## Actual Work
 I am working with the [Jecka Moños e-comerce web site](https://www.instagram.com/jeckapy/)
