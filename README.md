@@ -1,15 +1,11 @@
 # Hi I am Giuliano Dario Martin Diaz Perez
-<p>
-  I am a Paraguayan Junior Dev who want to learn all about web development and desktop technologies
-  I have 18 years old an a Informatics Engineering student, in the first year but with 
-  a powerfull eager to learn, In the future this page will have a lot of incredible projects
-</p>
+I am a Paraguayan Junior Dev who want to learn all about web development and desktop technologies
+I have 18 years old an a Informatics Engineering student, in the first year but with 
+a powerfull eager to learn, In the future this page will have a lot of incredible projects
 
 ## Actual Work
-<p>
-  I am working with the [JeckaMoños](https://www.instagram.com/jeckapy/).
-  maded in Django but for the momment i can't put this repository in public for security reasons 
-</p>
+I am working with the [Jecka Moños e-comerce web site](https://www.instagram.com/jeckapy/).
+maded in Django but for the momment i can't put this repository in public for security reasons 
 
 ## Skills
 ### Web 
