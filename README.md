@@ -1,8 +1,30 @@
-- 👋 Hi, I’m @GiuProgramert
-- 👀 I’m interested in Web desing and Destokp applications
-- 🌱 I’m currently learning Javascript Event loop
+#Hi I am Giuliano Dario Martin Diaz Perez
+<p>
+  I am a Junior Dev who want to learn all about web development and desktop technologies
+  I have 18 years old an a Informatics Engineering student, in the first year but with 
+  a powerfull eager to learn, In the future this page will have a lot of incredible projects
+</p>
 
-<!---
-GiuProgramert/GiuProgramert is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Skills
+### Web
+> Javascript
+> Html
+> CSS
+
+### Frameworks
+> Django
+> Bootstrap
+
+### Programming lenguajes
+> Java
+> Python
+> PHP
+> Javascript
+
+### Databases
+> Mysql
+> Postgresql
+> sqlite3
+
+### Some others skills
+> Git
