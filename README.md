@@ -7,6 +7,9 @@ a powerfull eager to learn, In the future this page will have a lot of incredibl
 I am working with the [Jecka Moños e-comerce web site](https://www.instagram.com/jeckapy/)
 maded in Django but for the momment i can't put this repository in public for security reasons 
 
+## Current learning
+I am learning React for construct more beautiful and powerfull frontend projects
+
 ## Skills
 ### Web 
 <ul>
