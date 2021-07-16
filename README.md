@@ -3,6 +3,8 @@ I am a Paraguayan Junior Dev who want to learn all about web development and des
 I have 18 years old an a Informatics Engineering student, in the first year but with 
 a powerfull eager to learn, In the future this page will have a lot of incredible projects
 
+![Github](https://github-readme-stats.vercel.app/api?username=GiuProgramert&show_icons=true&hide_border=true&title_color=ffb300&icon_color=ffb300&bg_color=dddddd)
+
 ## Actual Work
 I am working with the [Jecka Moños e-comerce web site](https://www.instagram.com/jeckapy/)
 maded in Django but for the momment i can't put this repository in public for security reasons 
