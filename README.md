@@ -5,20 +5,11 @@ a powerfull eager to learn, In the future this page will have a lot of incredibl
 
 ![Github](https://github-readme-stats.vercel.app/api?username=GiuProgramert&show_icons=true&hide_border=true&title_color=ffa500&icon_color=ffa500&bg_color=000)
 
-## Actual Work
-I am working with the [Jecka Moños e-comerce web site](https://www.instagram.com/jeckapy/)
-maded in Django but for the momment i can't put this repository in public for security reasons 
-
-## Current learning
-I am learning React for construct more beautiful and powerfull frontend projects
-
 ## Skills
 ### Web 
-<ul>
-  <li>Javascript</li>
-  <li>Html</li>
-  <li>CSS</li>
-</ul>
+- Javascript
+- Html
+- CSS
 
 ### Frameworks
 <ul>
@@ -39,9 +30,4 @@ I am learning React for construct more beautiful and powerfull frontend projects
   <li>Mysql</li>
   <li>Postgresql</li>
   <li>sqlite3</li>
-</ul>
-
-### Some others skills
-<ul>
-  <li>Git</li>
 </ul>
