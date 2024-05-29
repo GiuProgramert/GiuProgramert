@@ -19,6 +19,9 @@ Currently working on full stack development but i would like to specialize in ba
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 
+![Nextjs](https://img.shields.io/badge/-Nextjs-black?style=for-the-badge&logo=nextdotjs&logoColor=fffffff)
+![Astro](https://img.shields.io/badge/-Astro-ff5d01?style=for-the-badge&logo=astro&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-24262e?style=for-the-badge&logo=tailwindcss&logoColor=38bdf8)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
